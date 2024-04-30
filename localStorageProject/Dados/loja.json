@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "descricao": "Produto1",
+        "imagem": "../imagens/relogio1.webp",
+        "preco": 300.0
+    },
+    {
+        "id": 2,
+        "descricao": "Produto2",
+        "imagem": "../imagens/relogio2.webp",
+        "preco": 150.0
+    },
+    {
+        "id": 3,
+        "descricao": "Produto3",
+        "imagem": "../imagens/relogio3.webp",
+        "preco": 170.0
+    },
+    {
+        "id": 4,
+        "descricao": "Produto4",
+        "imagem": "../imagens/relogio4.webp",
+        "preco": 270.0
+    },
+    {
+        "id": 5,
+        "descricao": "Produto5",
+        "imagem": "../imagens/relogio5.webp",
+        "preco": 160.0
+    }
+
+]
